@@ -1,0 +1,9 @@
+Mod-1 OS:
+1. Types of OS(medium)
+2. Structure of OS, Service provided by OS, Different types of OS(long)
+3. Difference between multi programming & multi-tasking(short)
+4. Multiprocessor OS(medium)
+5. Computer system structure(5M)
+6. OS mode(med)
+7. Privileged instructions(1M)
+8. What are system calls? Different types and examples.(med)
